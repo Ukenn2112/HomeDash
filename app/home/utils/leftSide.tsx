@@ -68,7 +68,7 @@ function LeftSide() {
       >
         <Nav.Header
           logo={<IconSemiLogo style={{ height: "36px", fontSize: 36 }} />}
-          text={"Hamster's Home"}
+          text={"Ukennのサービス"}
         />
         <Nav.Item itemKey={"home"} text={"概览"} icon={<IconBanner />} />
         <Nav.Item itemKey={"service"} text={"服务监控"} icon={<IconToken />} />

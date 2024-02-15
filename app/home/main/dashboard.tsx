@@ -35,7 +35,7 @@ export default function MainContent() {
             alignItems: "baseline",
           }}
         >
-          👋 你好, 欢迎来到 HomeDash
+          👋 你好, 欢迎来到 Service Dash
           {SSEConnect ? (
             <Tag
               type={"light"}
